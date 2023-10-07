@@ -53,4 +53,5 @@ This is outside knowledge but when designing a database system the main 3 princi
   - Maintainability
   - Reliability
   - Scalability
+    
 These principles were heavily considered when selecting which database language we'd use when addressing this scenario. 
