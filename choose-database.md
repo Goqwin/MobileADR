@@ -48,7 +48,9 @@ Overall, PostgreSQL provides a secure, scalable, and efficient data management s
   - Isolation: The ability to ensure that transactions of multiple users do not impact the transactions of another user. Each simultaneous transaction is executed one by one.
   - Durability: Ensures that the changes made to the data made by successfully executed transactions will be saved, even in the event of a system failure.
 
-[^2^]: **Principles of a Good Database System:**
+**Principles of a Good Database System:**
+This is outside knowledge but when designing a database system the main 3 principles are as follows:
   - Maintainability
   - Reliability
   - Scalability
+These principles were heavily considered when selecting which database language we'd use when addressing this scenario. 
