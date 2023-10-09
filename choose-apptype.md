@@ -12,19 +12,19 @@ We propose adopting a Hybrid App Architecture for the development of the univers
 
 **Reasoning**
 
-Efficient Development and Maintenance: By utilizing a hybrid approach, we can write a single codebase using frameworks such as React Native, thereby significantly reducing development time and effort compared to building separate native apps for iOS and Android.
+- Efficient Development and Maintenance: By utilizing a hybrid approach, we can write a single codebase using frameworks such as React Native, thereby significantly reducing development time and effort compared to building separate native apps for iOS and Android.
 
-Offline Functionality: Hybrid frameworks allow for the implementation of offline capabilities and data synchronization mechanisms, enabling users to access certain features and data even when offline. This addresses the need for stable app performance in low or no connectivity scenarios.
+- Offline Functionality: Hybrid frameworks allow for the implementation of offline capabilities and data synchronization mechanisms, enabling users to access certain features and data even when offline. This addresses the need for stable app performance in low or no connectivity scenarios.
 
-Optimized Performance: Hybrid apps can be optimized to perform efficiently on a range of devices, including those with varying performance capabilities. Techniques such as code optimization and responsive design will be employed to minimize data usage and enhance app compatibility.
+- Optimized Performance: Hybrid apps can be optimized to perform efficiently on a range of devices, including those with varying performance capabilities. Techniques such as code optimization and responsive design will be employed to minimize data usage and enhance app compatibility.
 
-Integration with Active Directory: Hybrid frameworks support integration with existing authentication systems like Active Directory, enabling secure login and appropriate role and permissions enforcement for both students and professors.
+- Integration with Active Directory: Hybrid frameworks support integration with existing authentication systems like Active Directory, enabling secure login and appropriate role and permissions enforcement for both students and professors.
 
-Push Notification Integration: Hybrid frameworks offer seamless integration with various push notification providers, allowing us to select a suitable provider that supports both iOS and Android platforms, ensuring users are promptly informed about relevant updates.
+- Push Notification Integration: Hybrid frameworks offer seamless integration with various push notification providers, allowing us to select a suitable provider that supports both iOS and Android platforms, ensuring users are promptly informed about relevant updates.
 
-Data Privacy and Security: The hybrid app will prioritize data privacy and security by implementing encryption, secure data transmission protocols, and adhering to relevant data protection regulations, thereby safeguarding sensitive information.
+- Data Privacy and Security: The hybrid app will prioritize data privacy and security by implementing encryption, secure data transmission protocols, and adhering to relevant data protection regulations, thereby safeguarding sensitive information.
 
-Accessibility Features: Hybrid frameworks enable the implementation of accessibility features, ensuring the app is inclusive and meets accessibility guidelines. Features such as text-to-speech, high contrast modes, and support for assistive technologies will be integrated to accommodate a range of diverse user needs.
+- Accessibility Features: Hybrid frameworks enable the implementation of accessibility features, ensuring the app is inclusive and meets accessibility guidelines. Features such as text-to-speech, high contrast modes, and support for assistive technologies will be integrated to accommodate a range of diverse user needs.
 
 # Conclusion
 Overall, we believe that the adoption of a Hybrid App Architecture will simplify development and maintenance, encouraging widespread app usage on various platforms. Additionally, integrating offline capabilities and data synchronization will notably improve user experience, especially for those with intermittent internet connectivity. Additionally, optimizing performance and ensuring compatibility across diverse devices will cater to the wide user base comprising students and professors.
